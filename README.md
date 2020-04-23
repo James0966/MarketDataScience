@@ -59,6 +59,8 @@
 ### 股票標準差分析
 文章：[股票小秘書教你實戰一招「自動化選股」-附贈Python程式碼](https://medium.com/pythonstock/%E8%82%A1%E7%A5%A8%E5%B0%8F%E7%A7%98%E6%9B%B8%E6%95%99%E4%BD%A0%E5%AF%A6%E6%88%B0%E4%B8%80%E6%8B%9B-%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%B8%E8%82%A1-%E9%99%84%E8%B4%88python%E7%A8%8B%E5%BC%8F%E7%A2%BC-5fb1a09ef165)
 
+文章：[讓股票小秘書教您大掃【千】支股票 — 附贈【Python程式碼】範例](https://medium.com/pythonstock/%E8%AE%93%E8%82%A1%E7%A5%A8%E5%B0%8F%E7%A7%98%E6%9B%B8%E6%95%99%E6%82%A8%E5%A4%A7%E6%8E%83-%E5%8D%83-%E6%94%AF%E8%82%A1%E7%A5%A8-%E9%99%84%E8%B4%88-python%E7%A8%8B%E5%BC%8F%E7%A2%BC-%E7%AF%84%E4%BE%8B-59f22b5ecba6)
+
 ### 股票籌碼面分析
 文章：[股票小秘書幫您「監控主力」-附贈Python程式碼](https://github.com/rifleak74/MarketDataScience/tree/master/%E7%A8%8B%E5%BC%8F%E9%87%91%E8%9E%8D%E9%A1%9E/%E8%82%A1%E7%A5%A8%E7%B1%8C%E7%A2%BC%E9%9D%A2%E5%88%86%E6%9E%90)
 
