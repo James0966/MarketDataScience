@@ -56,7 +56,7 @@
 
 ## 程式金融類
 ### 股票標準差分析
-文章：[還在八點半起床準備看盤嗎？把你的選股放到股票機器人上吧-內附Python程式碼](https://medium.com/pythonstock/%E9%82%84%E5%9C%A8%E5%85%AB%E9%BB%9E%E5%8D%8A%E8%B5%B7%E5%BA%8A%E6%BA%96%E5%82%99%E7%9C%8B%E7%9B%A4%E5%97%8E-%E6%8A%8A%E4%BD%A0%E7%9A%84%E9%81%B8%E8%82%A1%E6%94%BE%E5%88%B0%E8%82%A1%E7%A5%A8%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%90%A7-%E5%85%A7%E9%99%84python%E7%A8%8B%E5%BC%8F%E7%A2%BC-f227566b9b64)
+文章：[股票小秘書教你實戰一招「自動化選股」-附贈Python程式碼](https://medium.com/pythonstock/%E8%82%A1%E7%A5%A8%E5%B0%8F%E7%A7%98%E6%9B%B8%E6%95%99%E4%BD%A0%E5%AF%A6%E6%88%B0%E4%B8%80%E6%8B%9B-%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%B8%E8%82%A1-%E9%99%84%E8%B4%88python%E7%A8%8B%E5%BC%8F%E7%A2%BC-5fb1a09ef165)
 
 ### 股票籌碼面分析
-文章：[]()
+文章：[股票小秘書幫您「監控主力」-附贈Python程式碼](https://github.com/rifleak74/MarketDataScience/tree/master/%E7%A8%8B%E5%BC%8F%E9%87%91%E8%9E%8D%E9%A1%9E/%E8%82%A1%E7%A5%A8%E7%B1%8C%E7%A2%BC%E9%9D%A2%E5%88%86%E6%9E%90)
