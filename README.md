@@ -16,7 +16,8 @@
   * [Python實作行銷RFM_model](#Python實作行銷RFM_model)
   * [行銷預算交給RFM](#行銷預算交給RFM)
 * 程式金融類(#程式金融類)
-
+  * [股票標準差分析](#股票標準差分析)
+  
 ## 商業數據類
 
 ### GPS定位圖
@@ -53,3 +54,5 @@
 文章：[行銷預算交給RFM－【附Python程式碼】](https://medium.com/marketingdatascience/%E8%A1%8C%E9%8A%B7%E9%A0%90%E7%AE%97%E4%BA%A4%E7%B5%A6rfm-%E9%99%84python%E7%A8%8B%E5%BC%8F%E7%A2%BC-48f0e6ae3972)
 
 ## 程式金融類
+### 股票標準差分析
+文章：[]()
