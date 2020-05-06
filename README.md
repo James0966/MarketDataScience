@@ -19,6 +19,7 @@
   * [Python實作行銷RFM_model](#Python實作行銷RFM_model)
   * [行銷預算交給RFM](#行銷預算交給RFM)
 * [程式金融類](#程式金融類)
+  * [Linebot-Basic](#Linebot-Basic) 
   * [股票標準差分析](#股票標準差分析)
   * [股票籌碼面分析](#股票籌碼面分析)
   * [公司重大訊息爬蟲](#公司重大訊息爬蟲)
@@ -64,6 +65,9 @@
 文章：[行銷預算交給RFM－【附Python程式碼】](https://medium.com/marketingdatascience/%E8%A1%8C%E9%8A%B7%E9%A0%90%E7%AE%97%E4%BA%A4%E7%B5%A6rfm-%E9%99%84python%E7%A8%8B%E5%BC%8F%E7%A2%BC-48f0e6ae3972)
 
 ## 程式金融類
+### Linebot-Basic
+文章：[]()
+
 ### 股票標準差分析
 文章：[股票小秘書教你實戰一招「自動化選股」-附贈Python程式碼](https://medium.com/pythonstock/%E8%82%A1%E7%A5%A8%E5%B0%8F%E7%A7%98%E6%9B%B8%E6%95%99%E4%BD%A0%E5%AF%A6%E6%88%B0%E4%B8%80%E6%8B%9B-%E8%87%AA%E5%8B%95%E5%8C%96%E9%81%B8%E8%82%A1-%E9%99%84%E8%B4%88python%E7%A8%8B%E5%BC%8F%E7%A2%BC-5fb1a09ef165)
 
